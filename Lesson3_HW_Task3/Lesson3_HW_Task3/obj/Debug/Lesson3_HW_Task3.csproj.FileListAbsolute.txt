@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.exe.config
+C:\Users\User\source\repos\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.exe
+C:\Users\User\source\repos\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.pdb
+C:\Users\User\source\repos\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.exe
+C:\Users\User\source\repos\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.pdb
+C:\Users\User\Desktop\Studying\C# studing\HW\Новая папка\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.exe.config
+C:\Users\User\Desktop\Studying\C# studing\HW\Новая папка\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.exe
+C:\Users\User\Desktop\Studying\C# studing\HW\Новая папка\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.pdb
+C:\Users\User\Desktop\Studying\C# studing\HW\Новая папка\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studying\C# studing\HW\Новая папка\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studying\C# studing\HW\Новая папка\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.exe
+C:\Users\User\Desktop\Studying\C# studing\HW\Новая папка\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.pdb
+C:\Users\User\Desktop\Studying\C# studing\HW\Lesson3_Homework\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.exe.config
+C:\Users\User\Desktop\Studying\C# studing\HW\Lesson3_Homework\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.exe
+C:\Users\User\Desktop\Studying\C# studing\HW\Lesson3_Homework\Lesson3_HW_Task3\Lesson3_HW_Task3\bin\Debug\Lesson3_HW_Task3.pdb
+C:\Users\User\Desktop\Studying\C# studing\HW\Lesson3_Homework\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studying\C# studing\HW\Lesson3_Homework\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studying\C# studing\HW\Lesson3_Homework\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.exe
+C:\Users\User\Desktop\Studying\C# studing\HW\Lesson3_Homework\Lesson3_HW_Task3\Lesson3_HW_Task3\obj\Debug\Lesson3_HW_Task3.pdb
